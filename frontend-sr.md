@@ -31,7 +31,7 @@ Para isso temos um nível de exigência alto com qualidade e buscamos um front-e
 
 ### Contratação
 
-PJ presencial
+PJ presencial (São Paulo, Pinheiros)
 
 ### Se interessou pela vaga?
 
