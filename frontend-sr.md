@@ -35,4 +35,4 @@ PJ presencial
 
 ### Se interessou pela vaga?
 
-Mande seu CV/LinkedIn para [ti@fdex.com.br](ti@fdex.com.br) e jobsit@egenius.com.br com o título “Vaga para Font-end na F(x) - SEUNOME”. 
+Mande seu CV/LinkedIn para [ti@fdex.com.br](ti@fdex.com.br) com o título “Vaga para Font-end na F(x) - SEUNOME”. 
