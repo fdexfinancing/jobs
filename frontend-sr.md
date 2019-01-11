@@ -11,9 +11,9 @@ Estamos em busca de um desenvolvedor front-end engineer senior que, assim como n
 - Experiência com ferramentas automação de tarefas (Gulp, Grunt, Webpack…)
 - Ter conhecimento como funciona um fluxo de teste e os tipos de testes existentes, de preferência já ter experiência com implementação dos mesmos.
 
-### **F(x)**
+### **finpass**
 
-A F(x) é uma empresa jovem, fundada em 2015 para resolver o problema de crédito de  empresas médias e grandes no Brasil. Usamos a experiência de 10+ anos no setor financeiro e de mais 10+ em desenvolvimentos de produtos e de construção de empresas baseadas em internet e marketplaces.
+A finpass é uma empresa jovem, fundada em 2015 para resolver o problema de crédito de  empresas médias e grandes no Brasil. Usamos a experiência de 10+ anos no setor financeiro e de mais 10+ em desenvolvimentos de produtos e de construção de empresas baseadas em internet e marketplaces.
 
 Oferecemos às empresas clientes o acesso diferenciado a uma rede de financiadores alternativos para busca de crédito estruturado, além de ferramentas que otimizam as condições dos créditos liberados, trazendo benefício imediato tanto às empresas quanto aos financiadores.
 
@@ -35,4 +35,4 @@ PJ presencial (São Paulo, Pinheiros)
 
 ### Se interessou pela vaga?
 
-Mande seu CV/LinkedIn para [ti@fdex.com.br](ti@fdex.com.br) com o título “Vaga para Font-end na F(x) - SEUNOME”. 
+Mande seu CV/LinkedIn para [vagas@finpass.com.br](vagas@finpass.com.br) com o título “Vaga para Font-end na finpass - SEUNOME”. 
