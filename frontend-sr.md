@@ -5,10 +5,10 @@ Estamos em busca de um desenvolvedor front-end engineer senior que, assim como n
 ### **Requisitos**
 
 - Domínio em lógica de programação, orientação a objetos e design patterns
-- Ter trabalhado com algum framework Javascript MVC (Angular, Backbone, KnockoutJS, EmberJS, etc..)
+- Ter trabalhado com algum framework Javascript MVC (Angular, Backbone, KnockoutJS, EmberJS, React, etc...)
 - Sólidos conhecimentos em HTML/CSS/Javascript
 - Experiência com pré-processadores (less, sass, stylus…)
-- Experiência com ferramentas automação de tarefas (Gulp, Grunt, Webpack…)
+- Experiência com ferramentas automação de tarefas (Webpack)
 - Ter conhecimento como funciona um fluxo de teste e os tipos de testes existentes, de preferência já ter experiência com implementação dos mesmos.
 
 ### **finpass**
@@ -24,7 +24,7 @@ Para isso temos um nível de exigência alto com qualidade e buscamos um front-e
 ### O que oferecemos?
 
 - Espaço, estímulo e suporte para se desenvolver e crescer de forma meteórica
-- Interação com outras startups (BeeCâmbio, Singu, Easy Carros, Choppup) da venture builder eGenius (grupo do qual fazemos parte)
+- Interação com outras startups (BeeCâmbio, Easy Carros, Modiax, Mosaico) da venture builder Mar Ventures (grupo do qual fazemos parte)
 - Oportunidade de contribuir efetivamente para a evolução de uma startup em crescimento acelerado (aqui, suas ações e opiniões podem causar grandes impactos)
 - Ambiente descontraído e dinâmico
 
