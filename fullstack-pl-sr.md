@@ -1,6 +1,6 @@
 ### **Afim de desafios novos?**
 
-Estamos em busca de pessoas desenvolvedoras que, assim como nós, tenha um perfil ousado e empreendedor: gente ligada em tecnologia, com brilho nos olhos e que goste de evoluir com novas experiências, que queira construir produtos e soluções incríveis, sempre antenado nos últimos frameworks e padrões. 
+Estamos em busca de pessoas desenvolvedoras, gente ligada em tecnologia, com brilho nos olhos e que goste de evoluir com novas experiências, que queira construir produtos e soluções incríveis, sempre antenado nos últimos frameworks e padrões. 
 
 ### **Requisitos**
 
