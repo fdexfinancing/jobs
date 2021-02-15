@@ -1,4 +1,4 @@
-### **Afim de desafios novos?**
+### **A fim de desafios novos?**
 
 Estamos em busca de pessoas desenvolvedoras, gente ligada em tecnologia, com brilho nos olhos e que goste de evoluir com novas experiências, que queira construir produtos e soluções incríveis, sempre antenado nos últimos frameworks e padrões. 
 
@@ -35,7 +35,7 @@ Para isso temos um nível de exigência alto com qualidade e buscamos um front-e
 
 ### Nossa stack
 
-- Nossa stack é desenvolvida principalmente com Nodejs e ptyhon, mas também temos micro-services em go, e nada impede que tenhamos em outras linguages.
+- Nossa stack é desenvolvida principalmente com Nodejs e Python, mas também temos micro-services em go, e nada impede que tenhamos em outras linguages.
 
 ### Contratação
 
