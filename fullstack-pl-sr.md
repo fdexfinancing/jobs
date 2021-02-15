@@ -4,15 +4,16 @@ Estamos em busca de pessoas desenvolvedoras que, assim como nós, tenha um perfi
 
 ### **Requisitos**
 
-- Domínio em lógica de programação, orientação a objetos e design patterns
-- Sólidos conhecimentos em arquitetura de sistemas para internet
-- Bons conhecimentos em testes de software TDD\BDD
 - Conhecimento sólido em pelo menos uma linguagem de programação
+- Sólidos conhecimentos em arquitetura de software
+- Bons conhecimentos em testes de software TDD\BDD
 
 ### **Desejável***
 
 - Conhecimentos em TDD
 - Ter trabalhado com algum framework Javascript MVC (Angular, Backbone, KnockoutJS, EmberJS, React, etc...)
+- Ter trabalhado com algum framwork de backend como (Express, koa, flask, fastapi, etc...)
+- Bom relacionamento e facilidade de trabalho em equipe
 
 ### **finpass**
 
