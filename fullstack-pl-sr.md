@@ -8,7 +8,7 @@ Estamos em busca de pessoas desenvolvedoras, gente ligada em tecnologia, com bri
 - Sólidos conhecimentos em arquitetura de software
 - Bons conhecimentos em testes de software TDD\BDD
 
-### **Desejável***
+### **Desejável**
 
 - Conhecimentos em TDD
 - Ter trabalhado com algum framework Javascript MVC (Angular, Backbone, KnockoutJS, EmberJS, React, etc...)
