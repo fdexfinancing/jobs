@@ -35,7 +35,7 @@ Para isso temos um nível de exigência alto com qualidade e buscamos um front-e
 
 ### Nossa stack
 
-- Nossa stack é desenvolvida principalmente com Nodejs e Python, mas também temos micro-services em go, e nada impede que tenhamos em outras linguages.
+- Nossa stack é desenvolvida principalmente com Node.js e Python, mas também temos micro-services em go, e nada impede que tenhamos em outras linguagens.
 
 ### Contratação
 
