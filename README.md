@@ -1,5 +1,5 @@
 ### Open Positions
 
-Our current open positions are located here are:
+Our current [remote] open positions are located here are:
 
-- [Front-end Sr](https://github.com/fdexfinancing/jobs/blob/master/frontend-sr.md)
+- [Full Stack Pleno - Sênio](https://github.com/fdexfinancing/jobs/blob/master/fullstack-pl-sr.md)
